@@ -22,7 +22,8 @@
       "@car/shared/ui/checkboxes": ["libs/shared/ui/checkboxes/src/index.ts"],
       "@car/pricing/price/ui-calculator": [
         "libs/pricing/price/ui-calculator/src/index.ts"
-      ]
+      ],
+      "@car/pricing/shared/util": ["libs/pricing/shared/util/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

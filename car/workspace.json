@@ -252,6 +252,34 @@
           }
         }
       }
+    },
+    "pricing-shared-util": {
+      "root": "libs/pricing/shared/util",
+      "sourceRoot": "libs/pricing/shared/util/src",
+      "projectType": "library",
+      "schematics": {},
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:lint",
+          "options": {
+            "linter": "eslint",
+            "config": "libs/pricing/shared/util/.eslintrc",
+            "tsConfig": [
+              "libs/pricing/shared/util/tsconfig.lib.json",
+              "libs/pricing/shared/util/tsconfig.spec.json"
+            ],
+            "exclude": ["**/node_modules/**", "!libs/pricing/shared/util/**"]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/pricing/shared/util/jest.config.js",
+            "tsConfig": "libs/pricing/shared/util/tsconfig.spec.json",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   },
   "cli": {
