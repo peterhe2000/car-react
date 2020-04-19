@@ -1,21 +1,24 @@
 {
   "version": 1,
   "projects": {
-    "price": {
-      "root": "apps/price",
-      "sourceRoot": "apps/price/src",
+    "pricing": {
+      "root": "apps/pricing",
+      "sourceRoot": "apps/pricing/src",
       "projectType": "application",
       "schematics": {},
       "architect": {
         "build": {
           "builder": "@nrwl/web:build",
           "options": {
-            "outputPath": "dist/apps/price",
-            "index": "apps/price/src/index.html",
-            "main": "apps/price/src/main.tsx",
-            "polyfills": "apps/price/src/polyfills.ts",
-            "tsConfig": "apps/price/tsconfig.app.json",
-            "assets": ["apps/price/src/favicon.ico", "apps/price/src/assets"],
+            "outputPath": "dist/apps/pricing",
+            "index": "apps/pricing/src/index.html",
+            "main": "apps/pricing/src/main.tsx",
+            "polyfills": "apps/pricing/src/polyfills.ts",
+            "tsConfig": "apps/pricing/tsconfig.app.json",
+            "assets": [
+              "apps/pricing/src/favicon.ico",
+              "apps/pricing/src/assets"
+            ],
             "styles": [],
             "scripts": [],
             "webpackConfig": "@nrwl/react/plugins/webpack"
@@ -24,8 +27,8 @@
             "production": {
               "fileReplacements": [
                 {
-                  "replace": "apps/price/src/environments/environment.ts",
-                  "with": "apps/price/src/environments/environment.prod.ts"
+                  "replace": "apps/pricing/src/environments/environment.ts",
+                  "with": "apps/pricing/src/environments/environment.prod.ts"
                 }
               ],
               "optimization": true,
@@ -48,11 +51,11 @@
         "serve": {
           "builder": "@nrwl/web:dev-server",
           "options": {
-            "buildTarget": "price:build"
+            "buildTarget": "pricing:build"
           },
           "configurations": {
             "production": {
-              "buildTarget": "price:build:production"
+              "buildTarget": "pricing:build:production"
             }
           }
         },
@@ -60,39 +63,39 @@
           "builder": "@nrwl/linter:lint",
           "options": {
             "linter": "eslint",
-            "config": "apps/price/.eslintrc",
+            "config": "apps/pricing/.eslintrc",
             "tsConfig": [
-              "apps/price/tsconfig.app.json",
-              "apps/price/tsconfig.spec.json"
+              "apps/pricing/tsconfig.app.json",
+              "apps/pricing/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!apps/price/**"]
+            "exclude": ["**/node_modules/**", "!apps/pricing/**"]
           }
         },
         "test": {
           "builder": "@nrwl/jest:jest",
           "options": {
-            "jestConfig": "apps/price/jest.config.js",
-            "tsConfig": "apps/price/tsconfig.spec.json",
+            "jestConfig": "apps/pricing/jest.config.js",
+            "tsConfig": "apps/pricing/tsconfig.spec.json",
             "passWithNoTests": true
           }
         }
       }
     },
-    "price-e2e": {
-      "root": "apps/price-e2e",
-      "sourceRoot": "apps/price-e2e/src",
+    "pricing-e2e": {
+      "root": "apps/pricing-e2e",
+      "sourceRoot": "apps/pricing-e2e/src",
       "projectType": "application",
       "architect": {
         "e2e": {
           "builder": "@nrwl/cypress:cypress",
           "options": {
-            "cypressConfig": "apps/price-e2e/cypress.json",
-            "tsConfig": "apps/price-e2e/tsconfig.e2e.json",
-            "devServerTarget": "price:serve"
+            "cypressConfig": "apps/pricing-e2e/cypress.json",
+            "tsConfig": "apps/pricing-e2e/tsconfig.e2e.json",
+            "devServerTarget": "pricing:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "price:serve:production"
+              "devServerTarget": "pricing:serve:production"
             }
           }
         },
@@ -100,9 +103,9 @@
           "builder": "@nrwl/linter:lint",
           "options": {
             "linter": "eslint",
-            "config": "apps/price-e2e/.eslintrc",
-            "tsConfig": ["apps/price-e2e/tsconfig.e2e.json"],
-            "exclude": ["**/node_modules/**", "!apps/price-e2e/**"]
+            "config": "apps/pricing-e2e/.eslintrc",
+            "tsConfig": ["apps/pricing-e2e/tsconfig.e2e.json"],
+            "exclude": ["**/node_modules/**", "!apps/pricing-e2e/**"]
           }
         }
       }

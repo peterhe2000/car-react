@@ -19,12 +19,12 @@
     }
   },
   "projects": {
-    "price": {
+    "pricing": {
       "tags": []
     },
-    "price-e2e": {
+    "pricing-e2e": {
       "tags": [],
-      "implicitDependencies": ["price"]
+      "implicitDependencies": ["pricing"]
     }
   }
 }
