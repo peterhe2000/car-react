@@ -40,6 +40,9 @@
     },
     "pricing-price-ui-calculator": {
       "tags": ["scope:pricing", "type:ui"]
+    },
+    "pricing-shared-util": {
+      "tags": ["scope:pricing"]
     }
   }
 }
