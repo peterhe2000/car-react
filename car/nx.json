@@ -37,6 +37,9 @@
     },
     "shared-ui-checkboxes": {
       "tags": ["scope:shared", "type:ui"]
+    },
+    "pricing-price-ui-calculator": {
+      "tags": []
     }
   }
 }
