@@ -34,6 +34,9 @@
     },
     "shared-ui-buttons": {
       "tags": ["scope:shared", "type:lib"]
+    },
+    "shared-ui-checkboxes": {
+      "tags": []
     }
   }
 }
