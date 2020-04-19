@@ -20,23 +20,23 @@
   },
   "projects": {
     "pricing": {
-      "tags": []
+      "tags": ["scope:pricing", "type:app"]
     },
     "pricing-e2e": {
       "tags": [],
       "implicitDependencies": ["pricing"]
     },
     "shared-ui-header": {
-      "tags": ["scope:shared", "type:lib"]
+      "tags": ["scope:shared", "type:ui"]
     },
     "shared-ui-footer": {
-      "tags": ["scope:shared", "type:lib"]
+      "tags": ["scope:shared", "type:ui"]
     },
     "shared-ui-buttons": {
-      "tags": ["scope:shared", "type:lib"]
+      "tags": ["scope:shared", "type:ui"]
     },
     "shared-ui-checkboxes": {
-      "tags": []
+      "tags": ["scope:shared", "type:ui"]
     }
   }
 }
