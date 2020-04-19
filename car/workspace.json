@@ -2,28 +2,80 @@
   "version": 1,
   "projects": {
     "pricing": {
-      "root": "libs/pricing",
-      "sourceRoot": "libs/pricing/src",
-      "projectType": "library",
+      "root": "apps/pricing",
+      "sourceRoot": "apps/pricing/src",
+      "projectType": "application",
       "schematics": {},
       "architect": {
+        "build": {
+          "builder": "@nrwl/web:build",
+          "options": {
+            "outputPath": "dist/apps/pricing",
+            "index": "apps/pricing/src/index.html",
+            "main": "apps/pricing/src/main.tsx",
+            "polyfills": "apps/pricing/src/polyfills.ts",
+            "tsConfig": "apps/pricing/tsconfig.app.json",
+            "assets": [
+              "apps/pricing/src/favicon.ico",
+              "apps/pricing/src/assets"
+            ],
+            "styles": [],
+            "scripts": [],
+            "webpackConfig": "@nrwl/react/plugins/webpack"
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "apps/pricing/src/environments/environment.ts",
+                  "with": "apps/pricing/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@nrwl/web:dev-server",
+          "options": {
+            "buildTarget": "pricing:build"
+          },
+          "configurations": {
+            "production": {
+              "buildTarget": "pricing:build:production"
+            }
+          }
+        },
         "lint": {
           "builder": "@nrwl/linter:lint",
           "options": {
             "linter": "eslint",
-            "config": "libs/pricing/.eslintrc",
+            "config": "apps/pricing/.eslintrc",
             "tsConfig": [
-              "libs/pricing/tsconfig.lib.json",
-              "libs/pricing/tsconfig.spec.json"
+              "apps/pricing/tsconfig.app.json",
+              "apps/pricing/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!libs/pricing/**"]
+            "exclude": ["**/node_modules/**", "!apps/pricing/**"]
           }
         },
         "test": {
           "builder": "@nrwl/jest:jest",
           "options": {
-            "jestConfig": "libs/pricing/jest.config.js",
-            "tsConfig": "libs/pricing/tsconfig.spec.json",
+            "jestConfig": "apps/pricing/jest.config.js",
+            "tsConfig": "apps/pricing/tsconfig.spec.json",
             "passWithNoTests": true
           }
         }

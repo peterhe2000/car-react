@@ -19,8 +19,7 @@
       "@car/shared/ui/header": ["libs/shared/ui/header/src/index.ts"],
       "@car/shared/ui/footer": ["libs/shared/ui/footer/src/index.ts"],
       "@car/shared/ui/buttons": ["libs/shared/ui/buttons/src/index.ts"],
-      "@car/shared/ui/checkboxes": ["libs/shared/ui/checkboxes/src/index.ts"],
-      "@car/pricing": ["libs/pricing/src/index.ts"]
+      "@car/shared/ui/checkboxes": ["libs/shared/ui/checkboxes/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
