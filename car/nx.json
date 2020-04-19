@@ -42,7 +42,7 @@
       "tags": ["scope:pricing", "type:ui"]
     },
     "pricing-shared-util": {
-      "tags": ["scope:pricing"]
+      "tags": ["scope:pricing", "type:util"]
     }
   }
 }
