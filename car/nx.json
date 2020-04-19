@@ -25,6 +25,12 @@
     "pricing-e2e": {
       "tags": [],
       "implicitDependencies": ["pricing"]
+    },
+    "shared-ui-header": {
+      "tags": []
+    },
+    "shared-ui-footer": {
+      "tags": []
     }
   }
 }

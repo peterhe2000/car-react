@@ -15,7 +15,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@car/shared/ui/header": ["libs/shared/ui/header/src/index.ts"],
+      "@car/shared/ui/footer": ["libs/shared/ui/footer/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

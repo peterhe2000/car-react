@@ -109,6 +109,62 @@
           }
         }
       }
+    },
+    "shared-ui-header": {
+      "root": "libs/shared/ui/header",
+      "sourceRoot": "libs/shared/ui/header/src",
+      "projectType": "library",
+      "schematics": {},
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:lint",
+          "options": {
+            "linter": "eslint",
+            "config": "libs/shared/ui/header/.eslintrc",
+            "tsConfig": [
+              "libs/shared/ui/header/tsconfig.lib.json",
+              "libs/shared/ui/header/tsconfig.spec.json"
+            ],
+            "exclude": ["**/node_modules/**", "!libs/shared/ui/header/**"]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/shared/ui/header/jest.config.js",
+            "tsConfig": "libs/shared/ui/header/tsconfig.spec.json",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "shared-ui-footer": {
+      "root": "libs/shared/ui/footer",
+      "sourceRoot": "libs/shared/ui/footer/src",
+      "projectType": "library",
+      "schematics": {},
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:lint",
+          "options": {
+            "linter": "eslint",
+            "config": "libs/shared/ui/footer/.eslintrc",
+            "tsConfig": [
+              "libs/shared/ui/footer/tsconfig.lib.json",
+              "libs/shared/ui/footer/tsconfig.spec.json"
+            ],
+            "exclude": ["**/node_modules/**", "!libs/shared/ui/footer/**"]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/shared/ui/footer/jest.config.js",
+            "tsConfig": "libs/shared/ui/footer/tsconfig.spec.json",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   },
   "cli": {
