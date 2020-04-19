@@ -36,7 +36,7 @@
       "tags": ["scope:shared", "type:lib"]
     },
     "shared-ui-checkboxes": {
-      "tags": []
+      "tags": ["scope:shared", "type:lib"]
     }
   }
 }
