@@ -20,9 +20,6 @@
       "@car/shared/ui/footer": ["libs/shared/ui/footer/src/index.ts"],
       "@car/shared/ui/buttons": ["libs/shared/ui/buttons/src/index.ts"],
       "@car/shared/ui/checkboxes": ["libs/shared/ui/checkboxes/src/index.ts"],
-      "@car/pricing/price/ui-calculator": [
-        "libs/pricing/price/ui-calculator/src/index.ts"
-      ],
       "@car/pricing/shared/util": ["libs/pricing/shared/util/src/index.ts"]
     }
   },
