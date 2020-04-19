@@ -39,7 +39,7 @@
       "tags": ["scope:shared", "type:ui"]
     },
     "pricing-price-ui-calculator": {
-      "tags": []
+      "tags": ["scope:pricing", "type:ui"]
     }
   }
 }
