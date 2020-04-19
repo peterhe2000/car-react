@@ -3,6 +3,7 @@ import { StyledApp } from './app.styles';
 
 import { SharedUiHeader } from '@car/shared/ui/header';
 import { SharedUiFooter } from '@car/shared/ui/footer';
+import { CButton } from '@car/shared/ui/buttons';
 
 import { ReactComponent as Logo } from './logo.svg';
 import star from './star.svg';

@@ -27,10 +27,13 @@
       "implicitDependencies": ["pricing"]
     },
     "shared-ui-header": {
-      "tags": []
+      "tags": ["scope:shared", "type:lib"]
     },
     "shared-ui-footer": {
-      "tags": []
+      "tags": ["scope:shared", "type:lib"]
+    },
+    "shared-ui-buttons": {
+      "tags": ["scope:shared", "type:lib"]
     }
   }
 }

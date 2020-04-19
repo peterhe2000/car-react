@@ -165,6 +165,34 @@
           }
         }
       }
+    },
+    "shared-ui-buttons": {
+      "root": "libs/shared/ui/buttons",
+      "sourceRoot": "libs/shared/ui/buttons/src",
+      "projectType": "library",
+      "schematics": {},
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:lint",
+          "options": {
+            "linter": "eslint",
+            "config": "libs/shared/ui/buttons/.eslintrc",
+            "tsConfig": [
+              "libs/shared/ui/buttons/tsconfig.lib.json",
+              "libs/shared/ui/buttons/tsconfig.spec.json"
+            ],
+            "exclude": ["**/node_modules/**", "!libs/shared/ui/buttons/**"]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/shared/ui/buttons/jest.config.js",
+            "tsConfig": "libs/shared/ui/buttons/tsconfig.spec.json",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   },
   "cli": {
