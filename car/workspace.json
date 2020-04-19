@@ -222,37 +222,6 @@
         }
       }
     },
-    "pricing-price-ui-calculator": {
-      "root": "libs/pricing/price/ui-calculator",
-      "sourceRoot": "libs/pricing/price/ui-calculator/src",
-      "projectType": "library",
-      "schematics": {},
-      "architect": {
-        "lint": {
-          "builder": "@nrwl/linter:lint",
-          "options": {
-            "linter": "eslint",
-            "config": "libs/pricing/price/ui-calculator/.eslintrc",
-            "tsConfig": [
-              "libs/pricing/price/ui-calculator/tsconfig.lib.json",
-              "libs/pricing/price/ui-calculator/tsconfig.spec.json"
-            ],
-            "exclude": [
-              "**/node_modules/**",
-              "!libs/pricing/price/ui-calculator/**"
-            ]
-          }
-        },
-        "test": {
-          "builder": "@nrwl/jest:jest",
-          "options": {
-            "jestConfig": "libs/pricing/price/ui-calculator/jest.config.js",
-            "tsConfig": "libs/pricing/price/ui-calculator/tsconfig.spec.json",
-            "passWithNoTests": true
-          }
-        }
-      }
-    },
     "pricing-shared-util": {
       "root": "libs/pricing/shared/util",
       "sourceRoot": "libs/pricing/shared/util/src",
