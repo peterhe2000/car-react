@@ -40,6 +40,9 @@
     },
     "pricing-shared-util": {
       "tags": ["scope:pricing", "type:util"]
+    },
+    "pricing-dap-feature-dap": {
+      "tags": ["scope:pricing", "type:feature"]
     }
   }
 }

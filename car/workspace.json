@@ -249,6 +249,37 @@
           }
         }
       }
+    },
+    "pricing-dap-feature-dap": {
+      "root": "libs/pricing/dap/feature-dap",
+      "sourceRoot": "libs/pricing/dap/feature-dap/src",
+      "projectType": "library",
+      "schematics": {},
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:lint",
+          "options": {
+            "linter": "eslint",
+            "config": "libs/pricing/dap/feature-dap/.eslintrc",
+            "tsConfig": [
+              "libs/pricing/dap/feature-dap/tsconfig.lib.json",
+              "libs/pricing/dap/feature-dap/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/pricing/dap/feature-dap/**"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/pricing/dap/feature-dap/jest.config.js",
+            "tsConfig": "libs/pricing/dap/feature-dap/tsconfig.spec.json",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   },
   "cli": {

@@ -5,6 +5,7 @@ import { SharedUiHeader } from '@car/shared/ui/header';
 import { SharedUiFooter } from '@car/shared/ui/footer';
 import { CButton } from '@car/shared/ui/buttons';
 import { CCheckbox } from '@car/shared/ui/checkboxes';
+import { PricingDapFeatureDap } from '@car/pricing/dap/feature-dap';
 
 import { ReactComponent as Logo } from './logo.svg';
 import star from './star.svg';
@@ -25,6 +26,7 @@ export const App = () => {
         <h1>Welcome to pricing!</h1>
       </header>
       <main>
+        <PricingDapFeatureDap></PricingDapFeatureDap>
         <h2>Resources &amp; Tools</h2>
         <p>Thank you for using and showing some ♥ for Nx.</p>
         <div className="flex github-star-container">

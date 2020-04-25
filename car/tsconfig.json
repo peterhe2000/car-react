@@ -20,7 +20,10 @@
       "@car/shared/ui/footer": ["libs/shared/ui/footer/src/index.ts"],
       "@car/shared/ui/buttons": ["libs/shared/ui/buttons/src/index.ts"],
       "@car/shared/ui/checkboxes": ["libs/shared/ui/checkboxes/src/index.ts"],
-      "@car/pricing/shared/util": ["libs/pricing/shared/util/src/index.ts"]
+      "@car/pricing/shared/util": ["libs/pricing/shared/util/src/index.ts"],
+      "@car/pricing/dap/feature-dap": [
+        "libs/pricing/dap/feature-dap/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
