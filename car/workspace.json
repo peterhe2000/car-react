@@ -280,6 +280,37 @@
           }
         }
       }
+    },
+    "shared-ui-ui-shared-styles": {
+      "root": "libs/shared/ui/ui-shared-styles",
+      "sourceRoot": "libs/shared/ui/ui-shared-styles/src",
+      "projectType": "library",
+      "schematics": {},
+      "architect": {
+        "lint": {
+          "builder": "@nrwl/linter:lint",
+          "options": {
+            "linter": "eslint",
+            "config": "libs/shared/ui/ui-shared-styles/.eslintrc",
+            "tsConfig": [
+              "libs/shared/ui/ui-shared-styles/tsconfig.lib.json",
+              "libs/shared/ui/ui-shared-styles/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/shared/ui/ui-shared-styles/**"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "options": {
+            "jestConfig": "libs/shared/ui/ui-shared-styles/jest.config.js",
+            "tsConfig": "libs/shared/ui/ui-shared-styles/tsconfig.spec.json",
+            "passWithNoTests": true
+          }
+        }
+      }
     }
   },
   "cli": {

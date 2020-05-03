@@ -1,18 +1,22 @@
 import React from 'react';
-
-import styled from 'styled-components';
+import {
+  StyledSharedUiFooter,
+  StyledFlexContainerFooter
+} from './shared-ui-footer.styles';
 
 /* eslint-disable-next-line */
 export interface SharedUiFooterProps {}
 
-const StyledSharedUiFooter = styled.div`
-  color: pink;
-`;
-
 export const SharedUiFooter = (props: SharedUiFooterProps) => {
   return (
     <StyledSharedUiFooter>
-      <h1>Welcome to shared-ui-footer component!</h1>
+      <footer>
+        <StyledFlexContainerFooter>
+          <div className="footer-copyright flex-item-copyright text-center">
+            &copy;Cars 2018
+          </div>
+        </StyledFlexContainerFooter>
+      </footer>
     </StyledSharedUiFooter>
   );
 };

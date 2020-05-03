@@ -18,14 +18,7 @@
       }
     }
   },
-  "projects": {
-    "pricing": {
-      "tags": ["scope:pricing", "type:app"]
-    },
-    "pricing-e2e": {
-      "tags": [],
-      "implicitDependencies": ["pricing"]
-    },
+  "projects": {    
     "shared-ui-header": {
       "tags": ["scope:shared", "type:ui"]
     },
@@ -37,6 +30,16 @@
     },
     "shared-ui-checkboxes": {
       "tags": ["scope:shared", "type:ui"]
+    },
+    "shared-ui-ui-shared-styles": {
+      "tags": ["scope:shared", "type:ui"]
+    },
+    "pricing": {
+      "tags": ["scope:pricing", "type:app"]
+    },
+    "pricing-e2e": {
+      "tags": [],
+      "implicitDependencies": ["pricing"]
     },
     "pricing-shared-util": {
       "tags": ["scope:pricing", "type:util"]

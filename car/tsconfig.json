@@ -23,6 +23,9 @@
       "@car/pricing/shared/util": ["libs/pricing/shared/util/src/index.ts"],
       "@car/pricing/dap/feature-dap": [
         "libs/pricing/dap/feature-dap/src/index.ts"
+      ],
+      "@car/shared/ui/ui-shared-styles": [
+        "libs/shared/ui/ui-shared-styles/src/index.ts"
       ]
     }
   },

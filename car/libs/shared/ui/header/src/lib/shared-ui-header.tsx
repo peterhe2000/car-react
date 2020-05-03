@@ -12,7 +12,7 @@ const StyledSharedUiHeader = styled.div`
 export const SharedUiHeader = (props: SharedUiHeaderProps) => {
   return (
     <StyledSharedUiHeader>
-      <h1>Welcome to shared-ui-header component!</h1>
+      <h1>This is header</h1>
     </StyledSharedUiHeader>
   );
 };
