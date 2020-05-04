@@ -13,7 +13,7 @@ export const SharedUiFooter = (props: SharedUiFooterProps) => {
     <StyledSharedUiFooter>
       <footer>
         <StyledFlexContainerFooter>
-          <StyledFlexItemCopyright>&copy;Cars 2018</StyledFlexItemCopyright>
+          <StyledFlexItemCopyright>&copy;Cars 2020</StyledFlexItemCopyright>
         </StyledFlexContainerFooter>
       </footer>
     </StyledSharedUiFooter>
