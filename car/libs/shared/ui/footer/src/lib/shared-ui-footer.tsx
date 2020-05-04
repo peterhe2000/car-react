@@ -1,7 +1,8 @@
 import React from 'react';
 import {
   StyledSharedUiFooter,
-  StyledFlexContainerFooter
+  StyledFlexContainerFooter,
+  StyledFlexItemCopyright
 } from './shared-ui-footer.styles';
 
 /* eslint-disable-next-line */
@@ -12,9 +13,7 @@ export const SharedUiFooter = (props: SharedUiFooterProps) => {
     <StyledSharedUiFooter>
       <footer>
         <StyledFlexContainerFooter>
-          <div className="footer-copyright flex-item-copyright text-center">
-            &copy;Cars 2018
-          </div>
+          <StyledFlexItemCopyright>&copy;Cars 2018</StyledFlexItemCopyright>
         </StyledFlexContainerFooter>
       </footer>
     </StyledSharedUiFooter>

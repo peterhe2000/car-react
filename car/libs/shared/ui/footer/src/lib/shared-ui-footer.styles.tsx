@@ -11,4 +11,5 @@ export const StyledFlexContainerFooter = styled.div`
 
 export const StyledFlexItemCopyright = styled.div`
   width: 100%;
+  text-align: center;
 `;
