@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { StyledApp } from './app.styles';
 import { ThemeProvider } from 'styled-components';
 
@@ -20,6 +20,8 @@ export const App = () => {
    *
    * Note: The corresponding styles are in the ./app.styled-components file.
    */
+  const [carState, setCarState] = useState({});
+
   return (
     <ThemeProvider theme={theme}>
       <StyledApp>
