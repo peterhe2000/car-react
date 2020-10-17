@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 859,
+    "model_Id": 66,
+    "lct": 18336.6,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 7581.6,
+    "drive_Away_Price": 154224.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 860,
+    "model_Id": 67,
+    "lct": 31074.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 18198.0,
+    "drive_Away_Price": 221230.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 861,
+    "model_Id": 68,
+    "lct": 29295.6,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 10056.8,
+    "drive_Away_Price": 204188.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 862,
+    "model_Id": 69,
+    "lct": 511.8,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 3504.8,
+    "drive_Away_Price": 71701.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 863,
+    "model_Id": 70,
+    "lct": 0.0,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 3744.0,
+    "drive_Away_Price": 76528.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 864,
+    "model_Id": 71,
+    "lct": 2961.3,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 4056.0,
+    "drive_Away_Price": 82866.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 865,
+    "model_Id": 72,
+    "lct": 2163.3,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 4420.0,
+    "drive_Away_Price": 90204.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 874,
+    "model_Id": 81,
+    "lct": 32471.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 18864.0,
+    "drive_Away_Price": 229186.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 875,
+    "model_Id": 82,
+    "lct": 39394.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 21564.0,
+    "drive_Away_Price": 261886.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 876,
+    "model_Id": 83,
+    "lct": 49317.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 25434.0,
+    "drive_Away_Price": 308756.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 877,
+    "model_Id": 84,
+    "lct": 53438.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 26928.0,
+    "drive_Away_Price": 326872.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 882,
+    "model_Id": 89,
+    "lct": 2037.6,
+    "registration_Cost": 876.9,
+    "ctp": 0.0,
+    "stamp_Duty": 4388.8,
+    "drive_Away_Price": 89621.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 883,
+    "model_Id": 90,
+    "lct": 4345.2,
+    "registration_Cost": 876.9,
+    "ctp": 0.0,
+    "stamp_Duty": 4908.8,
+    "drive_Away_Price": 100140.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 884,
+    "model_Id": 91,
+    "lct": 13369.2,
+    "registration_Cost": 876.9,
+    "ctp": 0.0,
+    "stamp_Duty": 6406.4,
+    "drive_Away_Price": 130310.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 887,
+    "model_Id": 94,
+    "lct": 1297.8,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 4222.4,
+    "drive_Away_Price": 86241.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 888,
+    "model_Id": 95,
+    "lct": 0.0,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 3796.0,
+    "drive_Away_Price": 77565.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 889,
+    "model_Id": 96,
+    "lct": 1033.5,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 4170.4,
+    "drive_Away_Price": 85044.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 890,
+    "model_Id": 97,
+    "lct": 5924.7,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 5262.4,
+    "drive_Away_Price": 107315.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 891,
+    "model_Id": 98,
+    "lct": 9386.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 6052.8,
+    "drive_Away_Price": 123106.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 892,
+    "model_Id": 99,
+    "lct": 13109.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 6406.4,
+    "drive_Away_Price": 130398.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 893,
+    "model_Id": 100,
+    "lct": 2452.8,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 4482.4,
+    "drive_Away_Price": 91506.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 894,
+    "model_Id": 101,
+    "lct": 3029.7,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 4617.6,
+    "drive_Away_Price": 94141.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 895,
+    "model_Id": 102,
+    "lct": 6352.8,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 5366.4,
+    "drive_Away_Price": 109290.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 896,
+    "model_Id": 103,
+    "lct": 13242.3,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 6323.2,
+    "drive_Away_Price": 128707.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 897,
+    "model_Id": 104,
+    "lct": 11590.5,
+    "registration_Cost": 706.6,
+    "ctp": 0.0,
+    "stamp_Duty": 6541.6,
+    "drive_Away_Price": 132848.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 898,
+    "model_Id": 105,
+    "lct": 12006.6,
+    "registration_Cost": 869.2,
+    "ctp": 0.0,
+    "stamp_Duty": 6635.2,
+    "drive_Away_Price": 135059.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 899,
+    "model_Id": 106,
+    "lct": 39180.6,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 12220.0,
+    "drive_Away_Price": 247981.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 900,
+    "model_Id": 107,
+    "lct": 4930.2,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 5044.0,
+    "drive_Away_Price": 102787.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 901,
+    "model_Id": 108,
+    "lct": 13964.1,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 6604.0,
+    "drive_Away_Price": 134299.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 902,
+    "model_Id": 109,
+    "lct": 0.0,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 3837.6,
+    "drive_Away_Price": 78422.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 903,
+    "model_Id": 110,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3889.6,
+    "drive_Away_Price": 79562.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 904,
+    "model_Id": 111,
+    "lct": 2359.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4461.6,
+    "drive_Away_Price": 91084.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 905,
+    "model_Id": 112,
+    "lct": 7136.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7462.0,
+    "drive_Away_Price": 114785.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 906,
+    "model_Id": 113,
+    "lct": 5160.9,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 5096.0,
+    "drive_Away_Price": 103839.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 907,
+    "model_Id": 114,
+    "lct": 4506.6,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 4950.4,
+    "drive_Away_Price": 100889.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 908,
+    "model_Id": 115,
+    "lct": 9545.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 6084.0,
+    "drive_Away_Price": 123826.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 909,
+    "model_Id": 116,
+    "lct": 11107.5,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 5896.8,
+    "drive_Away_Price": 120007.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 910,
+    "model_Id": 117,
+    "lct": 12314.7,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 6708.0,
+    "drive_Away_Price": 136451.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 911,
+    "model_Id": 118,
+    "lct": 18735.6,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 7675.2,
+    "drive_Away_Price": 156047.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 912,
+    "model_Id": 119,
+    "lct": 16930.2,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 7748.0,
+    "drive_Away_Price": 157491.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 914,
+    "model_Id": 121,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2494.8,
+    "drive_Away_Price": 62767.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 915,
+    "model_Id": 122,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3536.0,
+    "drive_Away_Price": 72408.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 916,
+    "model_Id": 123,
+    "lct": 3664.5,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 4763.2,
+    "drive_Away_Price": 97053.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 917,
+    "model_Id": 124,
+    "lct": 3686.1,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4867.2,
+    "drive_Away_Price": 99278.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 918,
+    "model_Id": 125,
+    "lct": 6063.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7280.0,
+    "drive_Away_Price": 111990.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 919,
+    "model_Id": 126,
+    "lct": 2561.1,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 4035.2,
+    "drive_Away_Price": 82317.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 920,
+    "model_Id": 127,
+    "lct": 6486.6,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 4919.2,
+    "drive_Away_Price": 100212.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 921,
+    "model_Id": 128,
+    "lct": 1586.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 4295.2,
+    "drive_Away_Price": 87549.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 922,
+    "model_Id": 129,
+    "lct": 4909.5,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 5044.0,
+    "drive_Away_Price": 102698.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 923,
+    "model_Id": 130,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3816.8,
+    "drive_Away_Price": 78089.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 924,
+    "model_Id": 131,
+    "lct": 2359.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4461.6,
+    "drive_Away_Price": 91084.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 925,
+    "model_Id": 132,
+    "lct": 7136.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7462.0,
+    "drive_Away_Price": 114785.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 926,
+    "model_Id": 133,
+    "lct": 0.0,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 3837.6,
+    "drive_Away_Price": 78422.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 927,
+    "model_Id": 134,
+    "lct": 20644.2,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 8101.6,
+    "drive_Away_Price": 164744.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 928,
+    "model_Id": 135,
+    "lct": 23482.5,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 8746.4,
+    "drive_Away_Price": 177688.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 929,
+    "model_Id": 136,
+    "lct": 3786.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4430.4,
+    "drive_Away_Price": 90453.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 930,
+    "model_Id": 137,
+    "lct": 12771.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8694.0,
+    "drive_Away_Price": 133651.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 931,
+    "model_Id": 138,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 1999.2,
+    "drive_Away_Price": 50352.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 932,
+    "model_Id": 139,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2142.0,
+    "drive_Away_Price": 53995.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 933,
+    "model_Id": 140,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2200.8,
+    "drive_Away_Price": 55473.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 934,
+    "model_Id": 141,
+    "lct": 11140.2,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 8680.0,
+    "drive_Away_Price": 133333.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 935,
+    "model_Id": 142,
+    "lct": 14107.5,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 6572.8,
+    "drive_Away_Price": 133683.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 936,
+    "model_Id": 143,
+    "lct": 14622.3,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 9730.0,
+    "drive_Away_Price": 149472.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 937,
+    "model_Id": 144,
+    "lct": 20767.8,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 14184.0,
+    "drive_Away_Price": 172556.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 938,
+    "model_Id": 145,
+    "lct": 19237.8,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 14310.0,
+    "drive_Away_Price": 174053.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 939,
+    "model_Id": 146,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2830.8,
+    "drive_Away_Price": 71103.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 940,
+    "model_Id": 147,
+    "lct": 813.3,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4118.4,
+    "drive_Away_Price": 84041.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 941,
+    "model_Id": 148,
+    "lct": 6094.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4950.4,
+    "drive_Away_Price": 100972.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 942,
+    "model_Id": 149,
+    "lct": 0.0,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 2410.8,
+    "drive_Away_Price": 60695.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 943,
+    "model_Id": 150,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 1747.2,
+    "drive_Away_Price": 44090.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 944,
+    "model_Id": 151,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 1999.2,
+    "drive_Away_Price": 50342.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 945,
+    "model_Id": 152,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2083.2,
+    "drive_Away_Price": 52426.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 946,
+    "model_Id": 153,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2209.2,
+    "drive_Away_Price": 55552.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 947,
+    "model_Id": 154,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2629.2,
+    "drive_Away_Price": 65972.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 948,
+    "model_Id": 155,
+    "lct": 28136.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 10275.2,
+    "drive_Away_Price": 208579.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 949,
+    "model_Id": 156,
+    "lct": 30172.5,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 10254.4,
+    "drive_Away_Price": 208186.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 950,
+    "model_Id": 157,
+    "lct": 42864.9,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 13114.4,
+    "drive_Away_Price": 266046.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 951,
+    "model_Id": 158,
+    "lct": 57172.5,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 16338.4,
+    "drive_Away_Price": 331270.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 952,
+    "model_Id": 159,
+    "lct": 32249.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 10722.4,
+    "drive_Away_Price": 217654.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 953,
+    "model_Id": 160,
+    "lct": 43859.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 13332.8,
+    "drive_Away_Price": 270574.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 954,
+    "model_Id": 161,
+    "lct": 57890.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 16494.4,
+    "drive_Away_Price": 334537.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 955,
+    "model_Id": 162,
+    "lct": 27984.9,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 9692.8,
+    "drive_Away_Price": 196939.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 956,
+    "model_Id": 163,
+    "lct": 40469.1,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 12511.2,
+    "drive_Away_Price": 253855.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 957,
+    "model_Id": 164,
+    "lct": 54522.9,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 15672.8,
+    "drive_Away_Price": 317917.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 958,
+    "model_Id": 165,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2511.6,
+    "drive_Away_Price": 63165.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 959,
+    "model_Id": 166,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 3556.8,
+    "drive_Away_Price": 72710.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 960,
+    "model_Id": 167,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2772.0,
+    "drive_Away_Price": 69525.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 961,
+    "model_Id": 168,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 3816.8,
+    "drive_Away_Price": 78070.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 962,
+    "model_Id": 169,
+    "lct": 4367.1,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 4919.2,
+    "drive_Away_Price": 100222.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 963,
+    "model_Id": 170,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2772.0,
+    "drive_Away_Price": 69525.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 964,
+    "model_Id": 171,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 3816.8,
+    "drive_Away_Price": 78070.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 965,
+    "model_Id": 172,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2200.8,
+    "drive_Away_Price": 55454.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 966,
+    "model_Id": 173,
+    "lct": 0.0,
+    "registration_Cost": 884.4,
+    "ctp": 0.0,
+    "stamp_Duty": 2478.0,
+    "drive_Away_Price": 62362.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 967,
+    "model_Id": 174,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2242.8,
+    "drive_Away_Price": 56496.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 968,
+    "model_Id": 175,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2662.8,
+    "drive_Away_Price": 66916.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 969,
+    "model_Id": 176,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 33682.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 970,
+    "model_Id": 177,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1696.8,
+    "drive_Away_Price": 42969.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 971,
+    "model_Id": 178,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2032.8,
+    "drive_Away_Price": 51305.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 972,
+    "model_Id": 179,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1864.8,
+    "drive_Away_Price": 47137.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 973,
+    "model_Id": 180,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1360.8,
+    "drive_Away_Price": 34633.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 974,
+    "model_Id": 181,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 42930.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 975,
+    "model_Id": 182,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1780.8,
+    "drive_Away_Price": 45053.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 976,
+    "model_Id": 183,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2200.8,
+    "drive_Away_Price": 55471.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 977,
+    "model_Id": 184,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2032.8,
+    "drive_Away_Price": 51305.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 978,
+    "model_Id": 185,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1822.8,
+    "drive_Away_Price": 46095.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 979,
+    "model_Id": 186,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2116.8,
+    "drive_Away_Price": 53389.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 980,
+    "model_Id": 187,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2536.8,
+    "drive_Away_Price": 63809.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 981,
+    "model_Id": 188,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2158.8,
+    "drive_Away_Price": 54431.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 982,
+    "model_Id": 189,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 53662.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 983,
+    "model_Id": 190,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 61425.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 984,
+    "model_Id": 191,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2368.8,
+    "drive_Away_Price": 59641.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 986,
+    "model_Id": 193,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 58036.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 987,
+    "model_Id": 194,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 50625.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 988,
+    "model_Id": 195,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 61425.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 989,
+    "model_Id": 196,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2620.8,
+    "drive_Away_Price": 65893.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 990,
+    "model_Id": 197,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 74385.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 991,
+    "model_Id": 198,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 71010.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 992,
+    "model_Id": 199,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 46102.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 993,
+    "model_Id": 200,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 57442.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 994,
+    "model_Id": 201,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 76815.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 995,
+    "model_Id": 202,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 35167.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 996,
+    "model_Id": 203,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1419.6,
+    "drive_Away_Price": 35942.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 997,
+    "model_Id": 204,
+    "lct": 0.0,
+    "registration_Cost": 0.0,
+    "ctp": 0.0,
+    "stamp_Duty": 0.0,
+    "drive_Away_Price": 44415.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 998,
+    "model_Id": 205,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 1839.6,
+    "drive_Away_Price": 46362.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 999,
+    "model_Id": 206,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2990.4,
+    "drive_Away_Price": 75063.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 1000,
+    "model_Id": 207,
+    "lct": 502.2,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 4045.6,
+    "drive_Away_Price": 82601.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 1001,
+    "model_Id": 208,
+    "lct": 57213.3,
+    "registration_Cost": 772.8,
+    "ctp": 0.0,
+    "stamp_Duty": 29124.0,
+    "drive_Away_Price": 353347.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2157,
+    "model_Id": 251,
+    "lct": 30435.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 18864.0,
+    "drive_Away_Price": 229186.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2179,
+    "model_Id": 252,
+    "lct": 8711.1,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 5418.4,
+    "drive_Away_Price": 110351.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2202,
+    "model_Id": 255,
+    "lct": 0.0,
+    "registration_Cost": 753.5,
+    "ctp": 0.0,
+    "stamp_Duty": 3816.8,
+    "drive_Away_Price": 77970.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2205,
+    "model_Id": 256,
+    "lct": 12314.7,
+    "registration_Cost": 753.5,
+    "ctp": 0.0,
+    "stamp_Duty": 6708.0,
+    "drive_Away_Price": 136351.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2235,
+    "model_Id": 260,
+    "lct": 19281.6,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 13608.0,
+    "drive_Away_Price": 165540.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2239,
+    "model_Id": 261,
+    "lct": 25669.2,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 16092.0,
+    "drive_Away_Price": 195723.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2245,
+    "model_Id": 262,
+    "lct": 23916.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 15516.0,
+    "drive_Away_Price": 188767.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2269,
+    "model_Id": 274,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3082.8,
+    "drive_Away_Price": 77355.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2284,
+    "model_Id": 275,
+    "lct": 836.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 4118.4,
+    "drive_Away_Price": 84122.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2304,
+    "model_Id": 269,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3868.8,
+    "drive_Away_Price": 79141.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2309,
+    "model_Id": 270,
+    "lct": 1782.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4336.8,
+    "drive_Away_Price": 88460.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2326,
+    "model_Id": 271,
+    "lct": 31588.8,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 19314.0,
+    "drive_Away_Price": 234636.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2364,
+    "model_Id": 379,
+    "lct": 5601.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 5200.0,
+    "drive_Away_Price": 105873.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2374,
+    "model_Id": 380,
+    "lct": 12074.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8960.0,
+    "drive_Away_Price": 137682.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2382,
+    "model_Id": 381,
+    "lct": 9674.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8232.0,
+    "drive_Away_Price": 126554.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2389,
+    "model_Id": 382,
+    "lct": 15894.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 10108.0,
+    "drive_Away_Price": 155380.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2402,
+    "model_Id": 383,
+    "lct": 73779.3,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 34974.0,
+    "drive_Away_Price": 424297.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2457,
+    "model_Id": 403,
+    "lct": 15358.5,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 9394.0,
+    "drive_Away_Price": 144326.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2459,
+    "model_Id": 404,
+    "lct": 17666.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 10094.0,
+    "drive_Away_Price": 155046.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2462,
+    "model_Id": 406,
+    "lct": 29480.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 10098.4,
+    "drive_Away_Price": 205031.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2467,
+    "model_Id": 400,
+    "lct": 9674.7,
+    "registration_Cost": 772.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8232.0,
+    "drive_Away_Price": 126454.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2484,
+    "model_Id": 410,
+    "lct": 7188.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 5075.2,
+    "drive_Away_Price": 103407.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2508,
+    "model_Id": 411,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3868.8,
+    "drive_Away_Price": 79141.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2514,
+    "model_Id": 412,
+    "lct": 3365.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4794.4,
+    "drive_Away_Price": 97816.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2520,
+    "model_Id": 413,
+    "lct": 3786.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4430.4,
+    "drive_Away_Price": 90453.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2553,
+    "model_Id": 396,
+    "lct": 12201.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8988.0,
+    "drive_Away_Price": 138260.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2555,
+    "model_Id": 397,
+    "lct": 20531.4,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 8080.8,
+    "drive_Away_Price": 164234.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2569,
+    "model_Id": 420,
+    "lct": 31788.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 10618.4,
+    "drive_Away_Price": 215550.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2584,
+    "model_Id": 424,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2494.8,
+    "drive_Away_Price": 62767.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2599,
+    "model_Id": 425,
+    "lct": 5601.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 5200.0,
+    "drive_Away_Price": 105873.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2614,
+    "model_Id": 426,
+    "lct": 9674.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8232.0,
+    "drive_Away_Price": 126555.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2629,
+    "model_Id": 429,
+    "lct": 10248.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7924.0,
+    "drive_Away_Price": 121947.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2647,
+    "model_Id": 423,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2116.8,
+    "drive_Away_Price": 53389.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2660,
+    "model_Id": 430,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2646.0,
+    "drive_Away_Price": 66418.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2669,
+    "model_Id": 435,
+    "lct": 64136.4,
+    "registration_Cost": 772.8,
+    "ctp": 0.0,
+    "stamp_Duty": 31824.0,
+    "drive_Away_Price": 386047.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2686,
+    "model_Id": 440,
+    "lct": 12094.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8484.0,
+    "drive_Away_Price": 130506.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2714,
+    "model_Id": 436,
+    "lct": 3556.2,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4378.4,
+    "drive_Away_Price": 89401.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2719,
+    "model_Id": 437,
+    "lct": 2140.2,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4420.0,
+    "drive_Away_Price": 90093.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2727,
+    "model_Id": 439,
+    "lct": 5633.1,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4846.4,
+    "drive_Away_Price": 98869.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2764,
+    "model_Id": 442,
+    "lct": 39675.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 21564.0,
+    "drive_Away_Price": 261886.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2779,
+    "model_Id": 445,
+    "lct": 1017.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3806.4,
+    "drive_Away_Price": 77828.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2787,
+    "model_Id": 459,
+    "lct": 12986.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8666.0,
+    "drive_Away_Price": 133338.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2793,
+    "model_Id": 460,
+    "lct": 20371.2,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 14040.0,
+    "drive_Away_Price": 170713.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2822,
+    "model_Id": 463,
+    "lct": 8933.1,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7532.0,
+    "drive_Away_Price": 115854.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2841,
+    "model_Id": 434,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2494.8,
+    "drive_Away_Price": 62767.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2845,
+    "model_Id": 489,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3660.8,
+    "drive_Away_Price": 74931.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2854,
+    "model_Id": 490,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4024.8,
+    "drive_Away_Price": 82297.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2891,
+    "model_Id": 486,
+    "lct": 50010.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 25704.0,
+    "drive_Away_Price": 312026.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2896,
+    "model_Id": 487,
+    "lct": 52086.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 26514.0,
+    "drive_Away_Price": 321836.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2907,
+    "model_Id": 491,
+    "lct": 16086.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 9702.0,
+    "drive_Away_Price": 149024.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2917,
+    "model_Id": 492,
+    "lct": 24986.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 15840.0,
+    "drive_Away_Price": 192513.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2946,
+    "model_Id": 485,
+    "lct": 4597.8,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4971.2,
+    "drive_Away_Price": 101293.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2977,
+    "model_Id": 494,
+    "lct": 14402.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 9184.0,
+    "drive_Away_Price": 141207.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2983,
+    "model_Id": 503,
+    "lct": 3135.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4742.4,
+    "drive_Away_Price": 96765.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2987,
+    "model_Id": 504,
+    "lct": 7750.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7784.0,
+    "drive_Away_Price": 119807.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2995,
+    "model_Id": 497,
+    "lct": 0.0,
+    "registration_Cost": 853.5,
+    "ctp": 0.0,
+    "stamp_Duty": 2032.8,
+    "drive_Away_Price": 51286.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 2996,
+    "model_Id": 499,
+    "lct": 13678.8,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8876.0,
+    "drive_Away_Price": 136548.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3000,
+    "model_Id": 502,
+    "lct": 786.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3754.4,
+    "drive_Away_Price": 76777.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3044,
+    "model_Id": 495,
+    "lct": 21625.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 14634.0,
+    "drive_Away_Price": 177957.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3054,
+    "model_Id": 496,
+    "lct": 23240.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 15264.0,
+    "drive_Away_Price": 185586.5,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3075,
+    "model_Id": 510,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2830.8,
+    "drive_Away_Price": 71103.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3085,
+    "model_Id": 511,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2074.8,
+    "drive_Away_Price": 52347.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3098,
+    "model_Id": 512,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2200.8,
+    "drive_Away_Price": 55473.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3117,
+    "model_Id": 521,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2041.2,
+    "drive_Away_Price": 51404.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3133,
+    "model_Id": 522,
+    "lct": 807.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3764.8,
+    "drive_Away_Price": 76877.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3153,
+    "model_Id": 523,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3712.8,
+    "drive_Away_Price": 75985.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3165,
+    "model_Id": 524,
+    "lct": 1750.5,
+    "registration_Cost": 772.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4430.4,
+    "drive_Away_Price": 90353.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3177,
+    "model_Id": 525,
+    "lct": 10017.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7854.0,
+    "drive_Away_Price": 120876.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3195,
+    "model_Id": 526,
+    "lct": 33163.8,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 19134.0,
+    "drive_Away_Price": 232456.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3206,
+    "model_Id": 527,
+    "lct": 36625.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 20484.0,
+    "drive_Away_Price": 248807.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3220,
+    "model_Id": 529,
+    "lct": 32471.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 18864.0,
+    "drive_Away_Price": 229186.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3235,
+    "model_Id": 530,
+    "lct": 49317.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 25434.0,
+    "drive_Away_Price": 308756.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3252,
+    "model_Id": 517,
+    "lct": 26702.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 16614.0,
+    "drive_Away_Price": 201937.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3266,
+    "model_Id": 532,
+    "lct": 14050.5,
+    "registration_Cost": 772.8,
+    "ctp": 0.0,
+    "stamp_Duty": 9702.0,
+    "drive_Away_Price": 148925.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3275,
+    "model_Id": 533,
+    "lct": 21163.8,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 14454.0,
+    "drive_Away_Price": 175776.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3288,
+    "model_Id": 534,
+    "lct": 13779.3,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 9002.0,
+    "drive_Away_Price": 138325.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3302,
+    "model_Id": 535,
+    "lct": 14471.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 9212.0,
+    "drive_Away_Price": 141534.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3317,
+    "model_Id": 536,
+    "lct": 22086.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 14814.0,
+    "drive_Away_Price": 180136.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3348,
+    "model_Id": 531,
+    "lct": 7217.1,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7490.0,
+    "drive_Away_Price": 115162.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3357,
+    "model_Id": 546,
+    "lct": 1058.1,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 4274.4,
+    "drive_Away_Price": 87297.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3379,
+    "model_Id": 509,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2284.8,
+    "drive_Away_Price": 57557.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3401,
+    "model_Id": 550,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2209.2,
+    "drive_Away_Price": 55572.0,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3407,
+    "model_Id": 551,
+    "lct": 1730.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 3972.8,
+    "drive_Away_Price": 81085.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3421,
+    "model_Id": 566,
+    "lct": 33625.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 19314.0,
+    "drive_Away_Price": 234637.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3430,
+    "model_Id": 567,
+    "lct": 34548.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 19674.0,
+    "drive_Away_Price": 238997.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3465,
+    "model_Id": 545,
+    "lct": 17471.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 10122.0,
+    "drive_Away_Price": 155444.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3475,
+    "model_Id": 547,
+    "lct": 67779.3,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 32634.0,
+    "drive_Away_Price": 395957.1,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3481,
+    "model_Id": 548,
+    "lct": 67086.9,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 32364.0,
+    "drive_Away_Price": 392686.7,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3521,
+    "model_Id": 569,
+    "lct": 0.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 2830.8,
+    "drive_Away_Price": 71103.6,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3532,
+    "model_Id": 570,
+    "lct": 7710.0,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 7154.0,
+    "drive_Away_Price": 110176.8,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3542,
+    "model_Id": 571,
+    "lct": 16598.1,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 9772.0,
+    "drive_Away_Price": 150094.9,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3552,
+    "model_Id": 572,
+    "lct": 20059.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 13914.0,
+    "drive_Away_Price": 169236.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3562,
+    "model_Id": 574,
+    "lct": 17702.4,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 10192.0,
+    "drive_Away_Price": 156515.2,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3569,
+    "model_Id": 575,
+    "lct": 18625.5,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 10472.0,
+    "drive_Away_Price": 160795.3,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3589,
+    "model_Id": 573,
+    "lct": 10548.6,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8022.0,
+    "drive_Away_Price": 123345.4,
+    "finance_Price_Weekly": 0.0
+  },
+  {
+    "id": 3603,
+    "model_Id": 488,
+    "lct": 9674.7,
+    "registration_Cost": 872.8,
+    "ctp": 0.0,
+    "stamp_Duty": 8232.0,
+    "drive_Away_Price": 126554.5,
+    "finance_Price_Weekly": 0.0
+  }
+]
