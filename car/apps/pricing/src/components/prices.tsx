@@ -3,7 +3,11 @@ import { connect } from 'react-redux';
 import { LoadPrices } from '../actions/price-actions';
 
 const Prices = ({ prices = [] }) => {
-  return null;
+  return (
+    <pre>
+      <code>{JSON.stringify(prices, [], 4)}</code>
+    </pre>
+  );
 };
 
 const mapDispatchToProps = { LoadPrices };
