@@ -6,10 +6,11 @@ const Prices = ({ prices = [], loadPrices }) => {
   };
 
   return (
-    <pre>
-      <code>{JSON.stringify(prices, [], 4)}</code>
+    <section>
+      {prices &&
+        prices.map(price => <h3 key={price.id}>{price.drive_Away_Price}</h3>)}
       <button onClick={getPrices}>Click me</button>
-    </pre>
+    </section>
   );
 };
 

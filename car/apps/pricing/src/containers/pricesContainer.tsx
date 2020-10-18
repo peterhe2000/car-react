@@ -3,7 +3,7 @@ import { loadPrices } from '../actions/price-actions';
 import Prices from '../components/prices';
 
 const mapStateToProps = (state, ownProps) => {
-  return { prices: state.prices };
+  return { prices: state.prices.prices };
 };
 
 const mapDispatchToProps = { loadPrices };
