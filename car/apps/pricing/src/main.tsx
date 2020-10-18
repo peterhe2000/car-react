@@ -1,29 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
 
 import { BrowserRouter } from 'react-router-dom';
 
 import App from './containers/app';
 
-import { createStore, applyMiddleware } from 'redux';
-import { Provider } from 'react-redux';
+import configureStore from './configureStore';
 
-import { createEpicMiddleware } from 'redux-observable';
-import { composeWithDevTools } from 'redux-devtools-extension';
-
-import rootEpic from './epics/price-epics';
-
-import rootReducer from './reducers';
-
-const epicMiddleware = createEpicMiddleware();
-
-const middlewareEnhancer = applyMiddleware(epicMiddleware);
-
-const composeEnhancers = composeWithDevTools(middlewareEnhancer);
-
-const store = createStore(rootReducer, composeEnhancers);
-
-epicMiddleware.run(rootEpic);
+const store = configureStore(null);
 
 ReactDOM.render(
   <Provider store={store}>
