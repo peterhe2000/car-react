@@ -1,15 +1,16 @@
 import React from 'react';
-import { connect } from 'react-redux';
-import { LoadPrices } from '../actions/price-actions';
 
-const Prices = ({ prices = [] }) => {
+const Prices = ({ prices = [], loadPrices }) => {
+  const getPrices = () => {
+    loadPrices();
+  };
+
   return (
     <pre>
       <code>{JSON.stringify(prices, [], 4)}</code>
+      <button onClick={getPrices}>Click me</button>
     </pre>
   );
 };
 
-const mapDispatchToProps = { LoadPrices };
-
-export default connect(null, mapDispatchToProps)(Prices);
+export default Prices;

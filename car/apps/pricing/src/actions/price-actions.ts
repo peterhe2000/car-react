@@ -3,6 +3,7 @@ export const LoadPricesSuccess = '[PRICE] Load Prices Success';
 export const LoadPricesFail = '[PRICE] Load Prices Fail';
 
 export const loadPrices = () => {
+  console.log('loadPrices');
   return {
     type: LoadPrices
   };

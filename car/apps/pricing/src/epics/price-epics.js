@@ -1,9 +1,9 @@
 import { ajax } from 'rxjs/ajax';
 import { ofType } from 'redux-observable';
 import { map, mergeMap, tap, takeUntil } from 'rxjs/operators';
-import { LoadPrices, LoadPricesSuccess } from '../actions/price-actions';
+import { LoadPrices, loadPricesSuccess } from '../actions/price-actions';
 
-const ENDPOINT = './data/prices.json';
+const ENDPOINT = 'http://localhost:5000/api/users'; //TODO replace with price endpoint
 
 const loadPricesEpic = action$ => {
   return action$.pipe(
@@ -12,13 +12,7 @@ const loadPricesEpic = action$ => {
     mergeMap(action =>
       ajax.getJSON(ENDPOINT).pipe(
         tap(value => console.log('Loading!', value)),
-        map(response => LoadPricesSuccess(response.prices)),
-        takeUntil(
-          action$.pipe(
-            tap(value => console.log('CANCELLING!', value)),
-            ofType(FETCH_CHARACTERS)
-          )
-        )
+        map(response => loadPricesSuccess(response))
       )
     )
   );

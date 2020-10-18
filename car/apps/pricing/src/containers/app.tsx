@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { StyledApp } from './app.styles';
 import { ThemeProvider } from 'styled-components';
 
@@ -8,7 +8,7 @@ import { SharedUiFooter } from '@car/shared/ui/footer';
 import { CButton } from '@car/shared/ui/buttons';
 import { CCheckbox } from '@car/shared/ui/checkboxes';
 import { PricingDapFeatureDap } from '@car/pricing/dap/feature-dap';
-import Prices from '../components/prices';
+import PricesContainer from './PricesContainer';
 
 import { ReactComponent as Logo } from './logo.svg';
 import star from './star.svg';
@@ -22,7 +22,6 @@ export const App = () => {
    * Note: The corresponding styles are in the ./app.styled-components file.
    */
   const [carState, setCarState] = useState({});
-
   return (
     <ThemeProvider theme={theme}>
       <StyledApp>
@@ -32,7 +31,7 @@ export const App = () => {
           <h1>Welcome to pricing!</h1>
         </header>
         <main>
-          <Prices></Prices>
+          <PricesContainer></PricesContainer>
           {/* <PricingDapFeatureDap></PricingDapFeatureDap> */}
         </main>
         <SharedUiFooter />
