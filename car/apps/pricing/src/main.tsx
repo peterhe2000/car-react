@@ -9,6 +9,7 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import { Provider } from 'react-redux';
 
 import { createEpicMiddleware } from 'redux-observable';
+import { composeWithDevTools } from 'redux-devtools-extension';
 
 import rootEpic from './epics/price-epics';
 
@@ -23,12 +24,9 @@ declare global {
 }
 const middlewareEnhancer = applyMiddleware(epicMiddleware);
 
-const composeEnhancers = compose(
-  middlewareEnhancer,
-  window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__
-);
+const composeEnhancers = composeWithDevTools(middlewareEnhancer);
 
-const store = createStore(rootReducer, applyMiddleware(epicMiddleware));
+const store = createStore(rootReducer, composeEnhancers);
 
 epicMiddleware.run(rootEpic);
 
