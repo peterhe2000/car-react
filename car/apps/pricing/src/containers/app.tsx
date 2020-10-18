@@ -30,9 +30,7 @@ export const App = () => {
           <Logo width="75" height="75" />
           <h1>Welcome to pricing!</h1>
         </header>
-        <main>
-          <PricingDapFeatureDap></PricingDapFeatureDap>
-        </main>
+        <main>{/* <PricingDapFeatureDap></PricingDapFeatureDap> */}</main>
         <SharedUiFooter />
       </StyledApp>
     </ThemeProvider>
