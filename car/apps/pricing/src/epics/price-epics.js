@@ -3,7 +3,7 @@ import { ofType } from 'redux-observable';
 import { map, mergeMap, tap, takeUntil } from 'rxjs/operators';
 import { LoadPrices, loadPricesSuccess } from '../actions/price-actions';
 
-const ENDPOINT = 'http://localhost:5000/api/users'; //TODO replace with price endpoint
+const ENDPOINT = 'http://localhost:5000/api/prices';
 
 const loadPricesEpic = action$ => {
   return action$.pipe(
