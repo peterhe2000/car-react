@@ -8,6 +8,7 @@ import { SharedUiFooter } from '@car/shared/ui/footer';
 import { CButton } from '@car/shared/ui/buttons';
 import { CCheckbox } from '@car/shared/ui/checkboxes';
 import { PricingDapFeatureDap } from '@car/pricing/dap/feature-dap';
+import Prices from '../components/prices';
 
 import { ReactComponent as Logo } from './logo.svg';
 import star from './star.svg';
@@ -30,7 +31,10 @@ export const App = () => {
           <Logo width="75" height="75" />
           <h1>Welcome to pricing!</h1>
         </header>
-        <main>{/* <PricingDapFeatureDap></PricingDapFeatureDap> */}</main>
+        <main>
+          <Prices></Prices>
+          {/* <PricingDapFeatureDap></PricingDapFeatureDap> */}
+        </main>
         <SharedUiFooter />
       </StyledApp>
     </ThemeProvider>
