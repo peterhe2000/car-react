@@ -16,20 +16,11 @@ import star from './star.svg';
 import { Route, Link } from 'react-router-dom';
 
 export const App = () => {
-  /*
-   * Replace the elements below with your own.
-   *
-   * Note: The corresponding styles are in the ./app.styled-components file.
-   */
   const [carState, setCarState] = useState({});
   return (
     <ThemeProvider theme={theme}>
       <StyledApp>
         <SharedUiHeader />
-        <header className="flex">
-          <Logo width="75" height="75" />
-          <h1>Welcome to pricing!</h1>
-        </header>
         <main>
           <PricesContainer></PricesContainer>
           {/* <PricingDapFeatureDap></PricingDapFeatureDap> */}
