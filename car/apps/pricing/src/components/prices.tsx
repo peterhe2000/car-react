@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 const Prices = ({ prices = [], loadPrices }) => {
   useEffect(() => {
     loadPrices();
-  }, []);
+  }, [loadPrices]);
 
   return (
     <section>
