@@ -11,7 +11,7 @@ const initialState = {
 const pricesReducer = (state = initialState, action) => {
   switch (action.type) {
     case LOAD_PRICES_SUCCESS:
-      return { ...state, prices: action.payload };
+      return { ...state, prices: action.payload }; //todo use entityAdapter
   }
   return state;
 };
