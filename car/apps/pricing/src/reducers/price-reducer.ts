@@ -1,9 +1,15 @@
 import { LOAD_PRICES_SUCCESS } from '../actions/price-actions';
-const pricesReducer = (prices = [], action) => {
-  if (action.type === LOAD_PRICES_SUCCESS) {
-    return action.payload;
+
+const initialState = {
+  prices: []
+};
+
+const pricesReducer = (state = initialState, action) => {
+  switch (action.type) {
+    case LOAD_PRICES_SUCCESS:
+      return { ...state, prices: action.payload };
   }
-  return prices;
+  return state;
 };
 
 export default pricesReducer;
