@@ -4,7 +4,7 @@ import Prices from '../components/prices';
 
 const mapStateToProps = (state, ownProps) => {
   console.log(state);
-  return { prices: state.price.prices.prices };
+  return { prices: state.prices.prices.prices };
 };
 
 const mapDispatchToProps = { loadPrices };
