@@ -1,3 +1,7 @@
+import {
+  createEntityAdapter
+  // omit other imports
+} from '@reduxjs/toolkit';
 import { LOAD_PRICES_SUCCESS } from '../actions/price-actions';
 
 const initialState = {
