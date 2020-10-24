@@ -17,6 +17,7 @@ import { Route, Link } from 'react-router-dom';
 
 export const App = () => {
   const [carState, setCarState] = useState({});
+
   return (
     <ThemeProvider theme={theme}>
       <StyledApp>
